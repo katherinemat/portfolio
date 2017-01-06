@@ -20,8 +20,15 @@ body {
   float: right;
 }
 
+.intro p {
+  padding-left: 53px;
+  font-size: 26px;
+
+}
+
 h1 {
   font-size: 60px;
+  line-height: 50px;
 }
 
 .interests img {
@@ -74,6 +81,5 @@ h1 {
 }
 
 .bottom img {
-
   width: 20%;
 }
