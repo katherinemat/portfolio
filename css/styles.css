@@ -65,6 +65,10 @@ h1 {
   padding-left: 30px;
 }
 
+.about a {
+  color: #2f6d2f;
+}
+
 .bottom ul {
   list-style: none;
 }
