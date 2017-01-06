@@ -6,12 +6,12 @@ body {
   color: black;
 }
 
-.interests img {
-  width: 200px;
+h1 {
+  font-size: 60px;
 }
 
-.interests {
-  text-align: center;
+.interests img {
+  width: 200px;
 }
 
 .interests h4 {
@@ -19,7 +19,20 @@ body {
 }
 
 .work, .about {
-  background-color: rgba(255, 255, 255, 0.5);
-  padding: 0% 2% 2% 2%;
+  background-color: rgba(240, 240, 240, 0.7);
+  padding: 1% 2% 2% 2%;
   border-radius: 1px;
+  margin: 10px;
+}
+
+.work .row {
+  padding-left: 30px;
+}
+
+.about .background {
+  padding-left: 30px;
+}
+
+.about .interests {
+  padding-left: 30px;
 }
