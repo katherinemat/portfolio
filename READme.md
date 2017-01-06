@@ -10,7 +10,7 @@ _This webpage allows users to read about projects I've done and my background. B
 
 ## Setup/Installation Requirements
 
-* _Clone repository_
+* _Clone repository from https://github.com/katherinemat/portfolio.git_
 * _Double-click index.html to open this webpage in browser_
 * _Read away_
 
