@@ -31,6 +31,10 @@ h1 {
   line-height: 50px;
 }
 
+.language {
+  text-decoration: underline;
+}
+
 .interests img {
   width: 200px;
 }
