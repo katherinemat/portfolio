@@ -10,7 +10,7 @@ body {
   width: 5%;
   float: left;
   height: 100vh;
-  background-color: orange;
+  background-color: #ffa411;
   position: fixed;
 }
 
@@ -31,7 +31,21 @@ h1 {
   text-align: left;
 }
 
-.work, .about {
+.work {
+  background-color: rgba(240, 240, 240, 0.7);
+  padding: 1% 2% 2% 2%;
+  border-radius: 1px;
+  margin: 10px;
+}
+
+.about {
+  background-color: rgba(240, 240, 240, 0.7);
+  padding: 1% 2% 2% 2%;
+  border-radius: 1px;
+  margin: 10px;
+}
+
+.bottom {
   background-color: rgba(240, 240, 240, 0.7);
   padding: 1% 2% 2% 2%;
   border-radius: 1px;
