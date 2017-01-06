@@ -36,3 +36,7 @@ h1 {
 .about .interests {
   padding-left: 30px;
 }
+
+.sidebar ul {
+  list-style: none;
+}
