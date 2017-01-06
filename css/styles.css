@@ -1,5 +1,6 @@
 body {
   background-image: url("../img/sb.jpg");
+  color: black;
 }
 .interests img {
   width: 200px;
@@ -7,4 +8,15 @@ body {
 
 .interests {
   text-align: center;
+}
+
+.interests h4 {
+  text-align: left;
+}
+
+.work {
+  background-color: rgba(255, 255, 255, 0.5);
+  border: 1px solid grey;
+  padding: 0% 2% 2% 2%;
+  border-radius: 5px;
 }
