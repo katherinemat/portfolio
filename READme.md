@@ -18,7 +18,6 @@ _This webpage allows users to read about projects I've done and my background. B
 
 _The body of work section for this webpage is currently incomplete. I plan to add descriptions, titles, and links once I grow my portfolio._
 
-
 ## Technologies Used
 
 * _HTML_
