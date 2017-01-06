@@ -68,3 +68,8 @@ h1 {
 .bottom ul {
   list-style: none;
 }
+
+.bottom img {
+
+  width: 20%;
+}
