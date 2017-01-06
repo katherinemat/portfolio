@@ -6,6 +6,19 @@ body {
   color: black;
 }
 
+.sidebar {
+  width: 5%;
+  float: left;
+  height: 100vh;
+  background-color: orange;
+  position: fixed;
+}
+
+.container {
+  width: 95%;
+  float: right;
+}
+
 h1 {
   font-size: 60px;
 }
@@ -37,6 +50,6 @@ h1 {
   padding-left: 30px;
 }
 
-.sidebar ul {
+.bottom ul {
   list-style: none;
 }
